@@ -434,3 +434,4 @@
     <file src="../../Functions.Templates/templates/SignalRConnectionInfoHttpTrigger-PowerShell/sample.dat" target="Templates/SignalRConnectionInfoHttpTrigger-PowerShell/sample.dat" />
   </files>
 </package>
+
